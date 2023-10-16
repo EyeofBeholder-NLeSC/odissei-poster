@@ -1,6 +1,4 @@
-# Abstract
-
-### Modeling Interactions in Product Reviews: Utilizing Formal Argumentation to Assess Strengths and Weaknesses of Products Across Different Aspects
+## Modeling Interactions in Product Reviews: Utilizing Formal Argumentation to Assess Strengths and Weaknesses of Products Across Different Aspects
 
 Product reviews serve as critical sources of information for potential buyers and valuable feedback for reviewed entities. Recognizing their pivotal role, companies increasingly appreciate the efficacy of helpful reviews as a marketing tool. Extensive interdisciplinary research, ranging from philosophy to artificial intelligence, has investigated factors influencing the prediction of helpful reviews. 
 
